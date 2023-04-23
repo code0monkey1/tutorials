@@ -6,6 +6,6 @@ compilation of github links to topics studied
 
 | Link | Concepts Covered |
 |------|-----------------|
-|[https://github.com/your-username/data-structures](https://github.com/your-username/data-structures) | Arrays, Linked Lists, Stacks, Queues, Trees |
-|[https://github.com/your-username/algorithms](https://github.com/your-username/algorithms) | Sorting, Searching, Graph Algorithms, Dynamic Programming |
-|[https://github.com/your-username/web-dev](https://github.com/your-username/web-dev) | HTML, CSS, JavaScript, React, Node.js |
+|Arrays, Linked Lists, Stacks, Queues, Trees | [https://github.com/your-username/data-structures](https://github.com/your-username/data-structures) |
+|Sorting, Searching, Graph Algorithms, Dynamic Programming | [https://github.com/your-username/algorithms](https://github.com/your-username/algorithms) | 
+|HTML, CSS, JavaScript, React, Node.js | [https://github.com/your-username/web-dev](https://github.com/your-username/web-dev) |
