@@ -1,4 +1,4 @@
-# tutorials
+# Tutorials
 compilation of github links to topics studied
 
 
