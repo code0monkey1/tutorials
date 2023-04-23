@@ -4,7 +4,7 @@ compilation of github links to topics studied
 
 ## Typescript : 
 
-| Link | Concepts Covered |
+|Concepts Covered |  Link  |
 |------|-----------------|
 |Arrays, Linked Lists, Stacks, Queues, Trees | [https://github.com/your-username/data-structures](https://github.com/your-username/data-structures) |
 |Sorting, Searching, Graph Algorithms, Dynamic Programming | [https://github.com/your-username/algorithms](https://github.com/your-username/algorithms) | 
